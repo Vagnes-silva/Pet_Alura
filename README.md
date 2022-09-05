@@ -1,2 +1,2 @@
-# Segunda página
- Criando a seginda pagina do curso alura
+# Segunda página Alura
+ Criando a segunda página do curso Alura
